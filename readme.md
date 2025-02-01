@@ -3,8 +3,6 @@
 
 This is the code repository to demonstrate how you can use Amazon SageMaker AI for geospatial data analysis.
 
-![Lake Shasta](https://github.com/samx18/geospatial_analysis/blob/main/images/lake_shasta.png)
-
 ## Data
 
 The datasets used are publicly available geographic datasets and then explore the sentinel geospatial dataset available at AWS open data registry. The examples cover California Lakes and Counties using geographic vector data and then focus Lake Shasta in California for analyzing Sentinel-2 geospatial data and calculating spectral indices.
@@ -22,3 +20,22 @@ The datasets used are publicly available geographic datasets and then explore th
 ## Environment
 
 If you don't already have a SageMaker AI Studio Domain created, please follow this [Quickstart guide](https://docs.aws.amazon.com/sagemaker/latest/dg/onboard-quick-start.html) to setup a domain. Alternatively you can use the CloudFormation template in the `cfn-templates` folder to provision a new domain with a user profile.
+
+## QR codes and links
+
+### This GitHub repository
+Link: https://github.com/aws-samples/amazon-sagemaker-ai-geospatial  
+Short link: TBD
+
+![](./img/git-repo-qr-code.png)
+
+### AWS workshop
+Link: TBD 
+Short link: TBD
+
+![](./img/workshop-qr-code.svg)
+
+---
+
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+SPDX-License-Identifier: MIT-0
