@@ -1,0 +1,16 @@
+matplotlib
+geopandas
+shapely
+plotly_express
+rasterio
+earthpy
+sentinelhub
+folium
+pystac-client
+odc-stac
+rioxarray 
+xarray
+osmnx
+geoviews
+stackstac
+panel
