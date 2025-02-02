@@ -1,7 +1,7 @@
 
 # Getting Started with Geospatial Data Analysis
 
-This is the code repository to demonstrate how you can use Amazon SageMaker AI for geospatial data analysis.
+This is the code repository to demonstrate how you can use Amazon SageMaker AI for geospatial data processing and analysis.
 
 ## Data
 
@@ -24,10 +24,9 @@ If you don't already have a SageMaker AI Studio Domain created, please follow th
 ## QR codes and links
 
 ### This GitHub repository
-Link: https://github.com/aws-samples/amazon-sagemaker-ai-geospatial  
-Short link: TBD
+Link: https://github.com/aws-samples/amazon-sagemaker-ai-for-geospatial  
 
-![](./img/git-repo-qr-code.png)
+<img src="./img/gitrepo-qr-code.png" alt="GitHub repo QR code" width="300px">
 
 ### AWS workshop
 Link: TBD 

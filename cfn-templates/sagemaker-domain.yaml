@@ -723,7 +723,7 @@ Resources:
             - '    ''then'','
             - '    ''   echo "Running in job mode, skip lcc"'','
             - '    ''else'','
-            - '    ''   git clone https://github.com/yevgeniyilyin/geospatial_analysis_sagemaker.git || { echo "Error: Failed to clone repository"; exit 0; }'','
+            - '    ''   git clone https://github.com/aws-samples/amazon-sagemaker-ai-for-geospatial.git || { echo "Error: Failed to clone repository"; exit 0; }'','
             - '    ''   echo "Files cloned from GitHub repo"'','
             - '    ''fi'','
             - '    '''','
@@ -816,7 +816,7 @@ Resources:
         AppType: JupyterLab
         JupyterLabAppSettings:
           CodeRepositories: 
-            - RepositoryUrl: https://github.com/yevgeniyilyin/geospatial_analysis_sagemaker.git
+            - RepositoryUrl: https://github.com/aws-samples/amazon-sagemaker-ai-for-geospatial.git
           DefaultResourceSpec:
             InstanceType: !Ref JupyterLabAppInstance
         SpaceStorageSettings:
