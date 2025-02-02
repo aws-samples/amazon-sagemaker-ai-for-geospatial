@@ -1,5 +1,5 @@
 
-# Getting Started with Geospatial Data Analysis
+# Amazon SageMaker AI for geospatial data processing and analysis
 
 This is the code repository to demonstrate how you can use Amazon SageMaker AI for geospatial data processing and analysis.
 
@@ -15,7 +15,7 @@ The datasets used are publicly available geographic datasets and then explore th
 
 - An AWS account
 - Amazon SageMaker AI domain
-- A free Sentinel Hub account 
+- A free [Sentinel Hub](https://www.sentinel-hub.com/) account 
 
 ## Environment
 

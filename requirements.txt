@@ -1,10 +1,12 @@
+numpy>=2
+pandas
 matplotlib
 geopandas
 shapely
 plotly_express
 rasterio
 earthpy
-sentinelhub
+sentinelhub[AWS]
 folium
 pystac-client
 odc-stac

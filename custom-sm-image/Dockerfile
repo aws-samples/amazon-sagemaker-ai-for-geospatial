@@ -1,6 +1,7 @@
-ARG DISTRIBUTION_TYPE
+ARG SMD_DISTRIBUTION_TYPE=cpu
+ARG SMD_VERSION=1.11
 
-FROM public.ecr.aws/sagemaker/sagemaker-distribution:1.8.0-$DISTRIBUTION_TYPE
+FROM public.ecr.aws/sagemaker/sagemaker-distribution:$SMD_VERSION-$SMD_DISTRIBUTION_TYPE
 
 ARG NB_USER="sagemaker-user"
 ARG NB_UID=1000

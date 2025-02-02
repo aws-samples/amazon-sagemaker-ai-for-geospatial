@@ -276,6 +276,11 @@ Resources:
                 - ecr:BatchGetImage
                 - ecr:GetDownloadUrlForLayer
                 - ecr:GetAuthorizationToken
+                - ecr:ListImages
+                - ecr:InitiateLayerUpload
+                - ecr:CompleteLayerUpload
+                - ecr:UploadLayerPart
+                - ecr:PutImage
                 - s3:ListBucket
                 - s3:GetBucketLocation
                 - s3:GetEncryptionConfiguration
