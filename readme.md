@@ -5,7 +5,7 @@ This is the code repository to demonstrate how you can use Amazon SageMaker AI f
 
 ## Data
 
-The datasets used are publicly available geospatial datasets available at AWS open data registry, for example [Sentinel-2](https://aws.amazon.com/marketplace/pp/prodview-2ostsvrguftb2) or [USGS Landsat](https://aws.amazon.com/marketplace/pp/prodview-ivr4jeq6flk7u).
+The datasets used are publicly available geospatial datasets from the AWS open data registry, for example [Sentinel-2](https://aws.amazon.com/marketplace/pp/prodview-2ostsvrguftb2) or [USGS Landsat](https://aws.amazon.com/marketplace/pp/prodview-ivr4jeq6flk7u).
 
 The examples cover California Lakes and Counties using geographic vector data and then focus Lake Shasta in California for analyzing Sentinel-2 geospatial data and calculating spectral indices.
 
